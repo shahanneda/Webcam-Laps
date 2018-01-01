@@ -1,4 +1,4 @@
-package sample;
+package com.shahan.webcamlaps;
 
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;

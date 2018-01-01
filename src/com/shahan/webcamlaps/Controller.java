@@ -1,4 +1,4 @@
-package sample;
+package com.shahan.webcamlaps;
 
 public class Controller {
 

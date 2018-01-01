@@ -1,4 +1,4 @@
-package sample;
+package com.shahan.webcamlaps;
 
 /**
  * Created by shahan on 12/31/2017.

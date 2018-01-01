@@ -1,4 +1,4 @@
-package sample;
+package com.shahan.webcamlaps;
 
 import com.github.sarxos.webcam.Webcam;
 import javafx.application.Application;
